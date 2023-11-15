@@ -1,2 +1,2 @@
-user_name = input("Enter your name: ")
-print("Welcome, " + user_name)
+main_user = input("Enter your name: ")
+print("Welcome, " + main_user)
